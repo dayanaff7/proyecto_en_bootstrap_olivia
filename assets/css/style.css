@@ -1,0 +1,35 @@
+body {
+        font-family: "Raleway", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+      }
+header{
+    background-image : url(../img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 608px;
+}
+#Acerca_mi i{
+    font-size: 60px;
+
+}
+#mis_trabajos{
+    background-color: #17A2B8;
+    padding: 0.7em;
+}
+#mis_trabajos img{
+    width: 17.9em;
+    height: 14.4em;
+
+}
+
+#contacto h2, p{
+    text-align: center;
+
+}
+footer{
+    background-color: #0f0f0f;
+    text-align: center;
+    padding: 1em;
+}
